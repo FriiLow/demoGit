@@ -1,4 +1,8 @@
 hello 
+<<<<<<< HEAD
 hello world master
+=======
+hello world dev test
+>>>>>>> dev
 CC
 Hello
